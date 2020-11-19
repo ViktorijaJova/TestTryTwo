@@ -10,14 +10,15 @@ namespace Testing.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StudentControler : ControllerBase
+    public class StudentController : ControllerBase
     {
         private readonly StudentService _studentService;
 
-        public StudentControler(StudentService studentService)
+        public StudentController(StudentService studentService)
         {
             _studentService = studentService;
         }
+
 
         [HttpPost("register")]
         public IActionResult Register([FromBody] Student student1)

@@ -3076,11 +3076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
       "projectName": "Testing.DataModels",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

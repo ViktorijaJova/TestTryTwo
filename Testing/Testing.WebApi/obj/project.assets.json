@@ -11859,11 +11859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Testing\\Testing.WebApi\\Testing.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.WebApi\\Testing.WebApi.csproj",
       "projectName": "Testing.WebApi",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.WebApi\\Testing.WebApi.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.WebApi\\Testing.WebApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11882,8 +11882,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Testing\\Testing.Services\\Testing.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.Services\\Testing.Services.csproj"
+            "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.Services\\Testing.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.Services\\Testing.Services.csproj"
             }
           }
         }

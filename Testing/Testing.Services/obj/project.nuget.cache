@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1DMFmtsD9qjt6RjQ4+u3bKAsTdA8e6eYwSCs8PQvZ/9ivg/EZAB3ZASaBqOi6NHFjJde1HS+t+KRVIEXtvysA==",
+  "dgSpecHash": "cX0uywOFlaZdvazuy5zZ7ReKdVAvMm98Ia4+XwQBgGhf0MpxbT9+7SjuUVFpyIj5+7HqqKCkf0j8DBoHYtnDnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.Services\\Testing.Services.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.Services\\Testing.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.1.1\\microsoft.entityframeworkcore.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.1.1\\microsoft.entityframeworkcore.abstractions.2.1.1.nupkg.sha512",

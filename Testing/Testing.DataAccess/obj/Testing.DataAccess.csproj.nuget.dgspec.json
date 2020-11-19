@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj": {}
+    "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj",
         "projectName": "Testing.DataAccess",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataAccess\\Testing.DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj"
+              "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj": {
+    "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
         "projectName": "Testing.DataModels",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\Testing.DataModels.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Testing\\Testing.DataModels\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TestTryTwo\\Testing\\Testing.DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
