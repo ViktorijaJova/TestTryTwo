@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.Services.deps.json
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.Services.dll
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.Services.pdb
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.DataAccess.dll
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.DataModels.dll
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.DataAccess.pdb
+C:\Users\User\source\repos\Testing\Testing.Services\bin\Debug\netstandard2.0\Testing.DataModels.pdb
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.csproj.CopyComplete
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.dll
+C:\Users\User\source\repos\Testing\Testing.Services\obj\Debug\netstandard2.0\Testing.Services.pdb
